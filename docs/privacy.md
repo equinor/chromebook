@@ -4,11 +4,24 @@ This document gather information related to privacy protecting features, running
 
 ## Extensions
 
-- EFF
-- DuckDuckGo
+- [EFF Privacy Badger](https://www.eff.org/pages/privacy-badger)
+- [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 
 ## Browser settings
 
-- Cookies
-- Open up for most used sites (at work), to allow for cookies. This to make sertain features to work, e.g. MS Teams.
+Change your default search engine, what cookies you allow and what you synch in your google profile.
 
+### Search Engine.
+
+Make DuckDuckGo your default search engine.
+![image](images/default_search_engine.png)
+
+
+### Cookies
+
+Open up for most used sites (at work), to allow for cookies. This to make sertain features to work, e.g. MS Teams.
+![image](images/cookies_settings.png)
+![image](images/allow_cookies_setting.png)
+
+### Manage what you synch
+![image](images/manage_what_you_sync.png)
