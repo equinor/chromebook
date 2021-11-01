@@ -4,6 +4,23 @@ A place to collect notes and ideas about using Chromebooks for development in Eq
 
 Experimental project, for learning and exploring!
 
+## Topics
+
+### Device management
+
+Summary of changes to device management of Chromebooks
+
+- [21st Oct 2021](/management/changes-21-10-2021.md)
+
+### Privacy
+
+- [Protect your privacy - useful tips](/docs/privacy.md)
+
+### Installing apps
+
+- [Installing apps](/docs/installing-apps.md)
+
+
 Useful links :
 
 - Internal Slack channel => [#chromebook](https://equinor.slack.com/archives/C016HPVS5JR)
