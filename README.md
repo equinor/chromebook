@@ -8,9 +8,7 @@ Experimental project, for learning and exploring!
 
 ### Device management
 
-Summary of changes to device management of Chromebooks
-
-- [21st Oct 2021](/management/changes-21-10-2021.md)
+[Summary of changes to device management of Chromebooks](/management/README.md)
 
 ### Privacy
 
