@@ -23,5 +23,33 @@ Open up for most used sites (at work), to allow for cookies. This to make certai
 ![image](images/cookies_settings.png)
 ![image](images/allow_cookies_setting.png)
 
+#### Cookie list
+
+##### Equinor
+
+- [*.]equinor.com
+- [*.]statoil.com
+- [*.]equinor.service-now.com
+
+##### Github/Codespaces
+
+- [*.]github.com
+- [*.]github.dev
+- [*.]vscode.dev
+- [*.]vscode-webview.net
+
+##### Google
+
+- accounts.google.com
+
+##### Teams/Office/Sharepoint
+
+- [*.]login.live.com
+- [*.]teams.microsoft.com
+- [*.]microsoft.com
+- [*.]microsoftonline.com
+- [*.]office.com
+- [*.]sharepoint.com
+
 ### Manage what you synch
 ![image](images/manage_what_you_sync.png)
