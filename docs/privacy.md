@@ -19,7 +19,7 @@ Make DuckDuckGo your default search engine.
 
 ### Cookies
 
-Open up for most used sites (at work), to allow for cookies. This to make sertain features to work, e.g. MS Teams.
+Open up for most used sites (at work), to allow for cookies. This to make certain features to work, e.g. MS Teams.
 ![image](images/cookies_settings.png)
 ![image](images/allow_cookies_setting.png)
 
